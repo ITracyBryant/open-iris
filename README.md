@@ -1,7 +1,9 @@
 ## 环境
 
-python version >= 3.11
+python3 version = 3.11.13 (<3.12)
+```shell
 conda create -n open_iris python=3.11
+```
 
 ## 本地安装执行
 
